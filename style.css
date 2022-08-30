@@ -1,0 +1,7 @@
+.gimmeMargin {
+  margin-top: 10vh;
+}
+
+img {
+  transform: scaleX(-1);
+}
